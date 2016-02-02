@@ -1,2 +1,3 @@
 # hello-world
-my first github Repo
+My First Github Repo
+Now With Capitol Letters!!
